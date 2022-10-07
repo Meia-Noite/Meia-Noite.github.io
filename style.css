@@ -5,6 +5,12 @@
     padding: 0px;
 }
 
+main {
+    border: 2px 2px solid;
+    background-color: white;
+    color: black;
+}
+
 main > ul > li {
     text-decoration: none;
 }
